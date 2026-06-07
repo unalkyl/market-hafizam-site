@@ -17,7 +17,7 @@ Live URLs:
 - Privacy: `https://unalkyl.github.io/market-hafizam-site/privacy.html`
 - Support: `https://unalkyl.github.io/market-hafizam-site/support.html`
 
-Contact: `miuenal@gmail.com`
+Contact: `markethafizam.unlearned499@passmail.com`
 
 > Keep `privacy.html` in sync with `PRIVACY.md` in the app repo if the data
 > behaviour ever changes.
